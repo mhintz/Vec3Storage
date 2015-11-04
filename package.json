@@ -1,0 +1,24 @@
+{
+  "name": "vec3storage",
+  "version": "1.0.0",
+  "description": "Blazing fast storage for your 3-element vectors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhintz/Vec3Storage.git"
+  },
+  "keywords": [
+    "webgl",
+    "vector",
+    "TypedArray"
+  ],
+  "author": "Mark Hintz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhintz/Vec3Storage/issues"
+  },
+  "homepage": "https://github.com/mhintz/Vec3Storage#readme"
+}
